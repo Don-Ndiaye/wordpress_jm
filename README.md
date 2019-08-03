@@ -7,3 +7,5 @@ pour voir si les changements vont se faire en local aussi.
 Les modifications ont bien été pris en charge par "Sublime Text"
 
 maintenant, avec ce que je suis entrain d'écrire, je vais voir si et comment GitKreken va prendre en charge ces modifications.
+
+ou bien GitHub...
