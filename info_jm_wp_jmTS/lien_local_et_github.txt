@@ -1,2 +1,4 @@
+"arigin" ou lieu de "origin" chercher la différence
+
 origin  git@github.com:Don-Ndiaye/wordpress_jm.git (fetch)
 origin  git@github.com:Don-Ndiaye/wordpress_jm.git (push)
